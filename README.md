@@ -3,8 +3,12 @@
 ### 吴恩达《机器学习》课程
 可见深度学习网址
 1. 第16章课程[推荐系统](https://study.163.com/course/courseMain.htm?courseId=1210076550&_trace_c_p_k2_=b6bc627696084d5580979292387edc7c)
-2. 编程作业：[异常检测与推荐系统](https://ai.deepshare.net/detail/p_5df99dfe8c83a_qMnAGRok/6)
 
+以预测每个人对于不同电影的评级来举例不同推荐系统：
+- 基于内容的推荐算法：选取电影的特征，与当前客户对于电影的已有标注，获得当前客户的喜好
+- 协同过滤：基于所有客户喜好，与所有客户对于当前电影的已有标注，推断当前电影的特征
+
+2. 编程作业：[异常检测与推荐系统](https://ai.deepshare.net/detail/p_5df99dfe8c83a_qMnAGRok/6)-
 ### NLP之gensim库python实现文本相似度/匹配/查重
 可见[简书网址](https://www.jianshu.com/p/44b43d65d568)
 
